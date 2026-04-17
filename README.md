@@ -1,22 +1,22 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Nhat%20Quang%20Tran&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20AI-Powered%20Developer%20Tools&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0366d6,50:28a745,100:6f42c1&height=200&section=header&text=Nhat%20Quang%20Tran&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20AI-Powered%20Developer%20Tools&descSize=18&descAlignY=55"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&random=false&width=600&height=50&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Builder;12%2B+Projects+%7C+Python+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=600&height=50&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Builder;12%2B+Projects+%7C+Python+%7C+TypeScript" alt="Typing SVG" />
 </a>
 
 <!-- Badges -->
 <p>
   <a href="https://github.com/slnquangtran?tab=followers">
-    <img src="https://img.shields.io/github/followers/slnquangtran?label=Followers&style=for-the-badge&color=ff6b6b&labelColor=1a1b27" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/slnquangtran?label=Followers&style=for-the-badge&color=0366d6" alt="followers"/>
   </a>
   <a href="https://github.com/slnquangtran?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-12+-4ecdc4?style=for-the-badge&labelColor=1a1b27" alt="repos"/>
+    <img src="https://img.shields.io/badge/Repos-12+-28a745?style=for-the-badge" alt="repos"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=slnquangtran&style=for-the-badge&color=45b7d1&labelColor=1a1b27" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=slnquangtran&style=for-the-badge&color=6f42c1" alt="views"/>
 </p>
 
 </div>
@@ -52,7 +52,7 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,powershell,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,powershell,bash&theme=light" />
 </p>
 
 ### AI & Machine Learning
@@ -66,12 +66,12 @@
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=light" />
 </p>
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis&theme=light" />
 </p>
 
 ### Tools & Desktop
@@ -91,16 +91,16 @@
 <div align="center">
 
 <a href="https://github.com/slnquangtran/graphhub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slnquangtran&repo=graphhub&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slnquangtran&repo=graphhub&theme=default&hide_border=true&title_color=0366d6&icon_color=28a745" />
 </a>
 <a href="https://github.com/slnquangtran/NoteForge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slnquangtran&repo=NoteForge&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slnquangtran&repo=NoteForge&theme=default&hide_border=true&title_color=0366d6&icon_color=28a745" />
 </a>
 <a href="https://github.com/slnquangtran/MarketMinder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slnquangtran&repo=MarketMinder&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slnquangtran&repo=MarketMinder&theme=default&hide_border=true&title_color=0366d6&icon_color=28a745" />
 </a>
 <a href="https://github.com/slnquangtran/pdfmaster">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slnquangtran&repo=pdfmaster&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slnquangtran&repo=pdfmaster&theme=default&hide_border=true&title_color=0366d6&icon_color=28a745" />
 </a>
 
 </div>
@@ -120,18 +120,18 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=slnquangtran&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slnquangtran&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=slnquangtran&show_icons=true&theme=default&hide_border=true&title_color=0366d6&icon_color=28a745&text_color=24292e"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slnquangtran&layout=compact&theme=default&hide_border=true&title_color=0366d6&text_color=24292e"/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=slnquangtran&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=4ecdc4&fire=ff6b6b&currStreakLabel=4ecdc4"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=slnquangtran&theme=default&hide_border=true&ring=0366d6&fire=d73a49&currStreakLabel=28a745"/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=slnquangtran&custom_title=Contribution%20Graph&bg_color=0d1117&color=4ecdc4&line=ff6b6b&point=ffffff&area_color=4ecdc4&area=true&hide_border=true"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=slnquangtran&custom_title=Contribution%20Graph&bg_color=ffffff&color=0366d6&line=28a745&point=d73a49&area_color=79c0ff&area=true&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=slnquangtran&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=slnquangtran&theme=flat&no-frame=true&column=7&margin-w=15"/>
 
 </div>
 
@@ -160,10 +160,6 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House"/>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0366d6,50:28a745,100:6f42c1&height=120&section=footer"/>
 
 </div>
