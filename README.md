@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Open+Source+Builder+%F0%9F%9A%80;12%2B+Projects+%7C+Python+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&random=false&width=600&height=50&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Builder;12%2B+Projects+%7C+Python+%7C+TypeScript" alt="Typing SVG" />
 </a>
 
 <!-- Badges -->
@@ -21,45 +21,41 @@
 
 </div>
 
-<!-- About Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
+---
 
-```python
-class QuangTran:
-    def __init__(self):
-        self.name = "Quang Tran"
-        self.location = "Vietnam 🇻🇳"
-        self.roles = ["Full Stack Developer", "AI Engineer", "Open Source Builder"]
-        self.current_focus = "AI-powered developer tools & code intelligence"
-        
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+## About Me
 
-me = QuangTran()
-me.say_hi()
-```
+<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+| | |
+|---|---|
+| **Name** | Quang Tran |
+| **Location** | Vietnam |
+| **Roles** | Full Stack Developer, AI Engineer |
+| **Focus** | AI-powered developer tools & code intelligence |
 
-- 🔭 Building **[GraphHub](https://github.com/slnquangtran/graphhub)** — Code intelligence for AI agents
-- 🤖 Creating AI tools: **voice transcription**, **market prediction**, **smart assistants**
-- 🖥️ Desktop app developer with **PyQt6**
-- 🌱 Exploring **knowledge graphs** & **LLM integration**
-- 💡 Fun fact: My tools have saved **85% tokens** for AI coding assistants
+<br/>
+
+- Building **[GraphHub](https://github.com/slnquangtran/graphhub)** — Code intelligence for AI agents
+- Creating AI tools: **voice transcription**, **market prediction**, **smart assistants**
+- Desktop app developer with **PyQt6**
+- Exploring **knowledge graphs** & **LLM integration**
+- My tools have saved **85% tokens** for AI coding assistants
 
 <br clear="right"/>
 
-<!-- Tech Stack -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Stack
+---
+
+## Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,powershell,bash&theme=dark" />
 </p>
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -68,17 +64,17 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Whisper-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" />
 </p>
 
-### ⚙️ Backend & Database
+### Backend & Database
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis&theme=dark" />
 </p>
 
-### 🛠️ Tools & Desktop
+### Tools & Desktop
 <p>
   <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -88,8 +84,9 @@ me.say_hi()
 
 </div>
 
-<!-- Featured Projects -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" /> Featured Projects
+---
+
+## Featured Projects
 
 <div align="center">
 
@@ -110,15 +107,16 @@ me.say_hi()
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
-| 🧠 **[GraphHub](https://github.com/slnquangtran/graphhub)** | Code intelligence for AI agents (85% token savings) | TypeScript, KuzuDB, MCP |
-| 🎙️ **[NoteForge](https://github.com/slnquangtran/NoteForge)** | Voice transcription + AI summarization | Python, Whisper, AI |
-| 📈 **[MarketMinder](https://github.com/slnquangtran/MarketMinder)** | Institutional-grade trading analytics with deep learning | Python, PyTorch |
-| 📄 **[pdfmaster](https://github.com/slnquangtran/pdfmaster)** | Advanced PDF manipulation tool | Python, PyQt6 |
-| 🖼️ **[ImageHub](https://github.com/slnquangtran/ImageHub)** | Bulk image downloader with modern UI | Python, Web Scraping |
-| 🔐 **[Parkey](https://github.com/slnquangtran/Parkey)** | Secure password manager | Python, Encryption |
+| **[GraphHub](https://github.com/slnquangtran/graphhub)** | Code intelligence for AI agents (85% token savings) | TypeScript, KuzuDB, MCP |
+| **[NoteForge](https://github.com/slnquangtran/NoteForge)** | Voice transcription + AI summarization | Python, Whisper, AI |
+| **[MarketMinder](https://github.com/slnquangtran/MarketMinder)** | Institutional-grade trading analytics with deep learning | Python, PyTorch |
+| **[pdfmaster](https://github.com/slnquangtran/pdfmaster)** | Advanced PDF manipulation tool | Python, PyQt6 |
+| **[ImageHub](https://github.com/slnquangtran/ImageHub)** | Bulk image downloader with modern UI | Python, Web Scraping |
+| **[Parkey](https://github.com/slnquangtran/Parkey)** | Secure password manager | Python, Encryption |
 
-<!-- GitHub Stats -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> GitHub Stats
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -127,20 +125,19 @@ me.say_hi()
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=slnquangtran&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=4ecdc4&fire=ff6b6b&currStreakLabel=4ecdc4"/>
 
-<!-- Activity Graph -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=slnquangtran&custom_title=Contribution%20Graph&bg_color=0d1117&color=4ecdc4&line=ff6b6b&point=ffffff&area_color=4ecdc4&area=true&hide_border=true"/>
 
 </div>
 
-<!-- Trophy -->
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=slnquangtran&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15"/>
 
 </div>
 
-<!-- Connect -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Let's Connect
+---
+
+## Let's Connect
 
 <div align="center">
 
@@ -159,10 +156,9 @@ me.say_hi()
 
 </div>
 
-<!-- Footer -->
-<div align="center">
+---
 
-<br/>
+<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House"/>
 
