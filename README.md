@@ -1,27 +1,16 @@
-<div align="center">
+<h1 align="center">Hi, I'm Quang Tran</h1>
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Quang%20Tran&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Open Source Builder</h3>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer;AI+%26+Code+Intelligence+Enthusiast;Building+Tools+for+Developers;Open+Source+Contributor" alt="Typing SVG" />
-</a>
-
-<!-- Social Badges -->
-<p>
+<p align="center">
   <a href="https://github.com/slnquangtran?tab=followers">
     <img src="https://img.shields.io/github/followers/slnquangtran?label=Followers&style=social" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/slnquangtran">
-    <img src="https://img.shields.io/github/stars/slnquangtran?label=Stars&style=social" alt="GitHub stars"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=slnquangtran&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-</div>
+---
 
-<!-- About Me -->
 ## About Me
 
 ```typescript
@@ -37,7 +26,6 @@ const quang = {
 - Passionate about **developer experience** and **productivity tools**
 - Exploring the intersection of **knowledge graphs** and **AI coding assistants**
 
-<!-- Tech Stack -->
 ## Tech Stack
 
 <div align="center">
@@ -68,22 +56,18 @@ const quang = {
 
 </div>
 
-<!-- Featured Projects -->
-## Featured Projects
+## Featured Project
 
 <div align="center">
 
-<a href="https://github.com/slnquangtran/graphhub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slnquangtran&repo=graphhub&theme=tokyonight&hide_border=true" />
-</a>
+[![GraphHub](https://github-readme-stats.vercel.app/api/pin/?username=slnquangtran&repo=graphhub&theme=tokyonight&hide_border=true)](https://github.com/slnquangtran/graphhub)
 
 </div>
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**GraphHub**](https://github.com/slnquangtran/graphhub) | Local-first code intelligence platform for AI agents | TypeScript, KuzuDB, MCP |
+| [**GraphHub**](https://github.com/slnquangtran/graphhub) | Local-first code intelligence platform for AI agents (85% token savings) | TypeScript, KuzuDB, MCP |
 
-<!-- GitHub Stats -->
 ## GitHub Stats
 
 <div align="center">
@@ -99,34 +83,15 @@ const quang = {
 
 </div>
 
-<!-- Activity Graph -->
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=slnquangtran&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
-<!-- Connect -->
 ## Let's Connect
 
 <div align="center">
 
-<a href="mailto:slnquangtran2007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/slnquangtran">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slnquangtran2007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slnquangtran)
 
 </div>
 
-<!-- Footer -->
-<div align="center">
+---
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
-
-<!-- Updated: Fri Apr 17 17:11:56 MPST 2026 -->
+<p align="center">Built for AI agents that need to remember your codebase.</p>
