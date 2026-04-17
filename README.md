@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Quang%20Tran&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20AI-Powered%20Developer%20Tools&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Nhat%20Quang%20Tran&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20AI-Powered%20Developer%20Tools&descSize=18&descAlignY=55"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -29,7 +29,7 @@
 
 | | |
 |---|---|
-| **Name** | Quang Tran |
+| **Name** | Nhat Quang Tran |
 | **Location** | Vietnam |
 | **Roles** | Full Stack Developer, AI Engineer |
 | **Focus** | AI-powered developer tools & code intelligence |
