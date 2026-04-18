@@ -30,7 +30,7 @@
 | | |
 |---|---|
 | **Name** | Nhat Quang Tran |
-| **Location** | Vietnam |
+| **Location** | Vietnam, Singapore |
 | **Roles** | Full Stack Developer, AI Engineer |
 | **Focus** | AI-powered developer tools & code intelligence |
 
