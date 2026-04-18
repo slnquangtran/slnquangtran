@@ -96,9 +96,6 @@
 <a href="https://github.com/slnquangtran/NoteForge">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=slnquangtran&repo=NoteForge&theme=default&hide_border=true&title_color=0366d6&icon_color=28a745" />
 </a>
-<a href="https://github.com/slnquangtran/MarketMinder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slnquangtran&repo=MarketMinder&theme=default&hide_border=true&title_color=0366d6&icon_color=28a745" />
-</a>
 <a href="https://github.com/slnquangtran/pdfmaster">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=slnquangtran&repo=pdfmaster&theme=default&hide_border=true&title_color=0366d6&icon_color=28a745" />
 </a>
