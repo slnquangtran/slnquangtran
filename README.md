@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=600&height=50&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Builder;12%2B+Projects+%7C+Python+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=600&height=50&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Builder;13%2B+Projects+%7C+Python+%7C+TypeScript" alt="Typing SVG" />
 </a>
 
 <!-- Badges -->
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/followers/slnquangtran?label=Followers&style=for-the-badge&color=0366d6" alt="followers"/>
   </a>
   <a href="https://github.com/slnquangtran?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-12+-28a745?style=for-the-badge" alt="repos"/>
+    <img src="https://img.shields.io/badge/Repos-13+-28a745?style=for-the-badge" alt="repos"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=slnquangtran&style=for-the-badge&color=6f42c1" alt="views"/>
 </p>
@@ -36,11 +36,12 @@
 
 <br/>
 
-- Building **[GraphHub](https://github.com/slnquangtran/graphhub)** — Code intelligence for AI agents
+- Building **[GraphHub](https://github.com/slnquangtran/graphhub)** — Code intelligence for AI agents (v1.3.0)
 - Creating AI tools: **voice transcription**, **market prediction**, **smart assistants**
 - Desktop app developer with **PyQt6**
 - Exploring **knowledge graphs** & **LLM integration**
 - My tools have saved **85% tokens** for AI coding assistants
+- Passionate about **production-quality open source** — rigorous testing, bug hunting & performance
 
 <br clear="right"/>
 
@@ -104,7 +105,7 @@
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
-| **[GraphHub](https://github.com/slnquangtran/graphhub)** | Code intelligence for AI agents (85% token savings) | TypeScript, KuzuDB, MCP |
+| **[GraphHub](https://github.com/slnquangtran/graphhub)** | Code intelligence for AI agents — 85% token savings, multi-client MCP, persistent memory | TypeScript, KuzuDB, MCP |
 | **[NoteForge](https://github.com/slnquangtran/NoteForge)** | Voice transcription + AI summarization | Python, Whisper, AI |
 | **[MarketMinder](https://github.com/slnquangtran/MarketMinder)** | Institutional-grade trading analytics with deep learning | Python, PyTorch |
 | **[pdfmaster](https://github.com/slnquangtran/pdfmaster)** | Advanced PDF manipulation tool | Python, PyQt6 |
