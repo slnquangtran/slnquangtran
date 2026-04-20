@@ -36,7 +36,7 @@
 
 <br/>
 
-- Building **[GraphHub](https://github.com/slnquangtran/graphhub)** — Code intelligence for AI agents (v1.3.0)
+- Building **[GraphHub](https://github.com/slnquangtran/Graph-Hub)** — Code intelligence for AI agents (v1.3.0)
 - Creating AI tools: **voice transcription**, **market prediction**, **smart assistants**
 - Desktop app developer with **PyQt6**
 - Exploring **knowledge graphs** & **LLM integration**
@@ -91,8 +91,8 @@
 
 <div align="center">
 
-<a href="https://github.com/slnquangtran/graphhub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slnquangtran&repo=graphhub&theme=default&hide_border=true&title_color=0366d6&icon_color=28a745" />
+<a href="https://github.com/slnquangtran/Graph-Hub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slnquangtran&repo=Graph-Hub&theme=default&hide_border=true&title_color=0366d6&icon_color=28a745" />
 </a>
 <a href="https://github.com/slnquangtran/NoteForge">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=slnquangtran&repo=NoteForge&theme=default&hide_border=true&title_color=0366d6&icon_color=28a745" />
@@ -105,7 +105,7 @@
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
-| **[GraphHub](https://github.com/slnquangtran/graphhub)** | Code intelligence for AI agents — 85% token savings, multi-client MCP, persistent memory | TypeScript, KuzuDB, MCP |
+| **[GraphHub](https://github.com/slnquangtran/Graph-Hub)** | Code intelligence for AI agents — 85% token savings, multi-client MCP, persistent memory | TypeScript, KuzuDB, MCP |
 | **[NoteForge](https://github.com/slnquangtran/NoteForge)** | Voice transcription + AI summarization | Python, Whisper, AI |
 | **[MarketMinder](https://github.com/slnquangtran/MarketMinder)** | Institutional-grade trading analytics with deep learning | Python, PyTorch |
 | **[pdfmaster](https://github.com/slnquangtran/pdfmaster)** | Advanced PDF manipulation tool | Python, PyQt6 |
